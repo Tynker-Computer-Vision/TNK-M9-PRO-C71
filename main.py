@@ -92,5 +92,5 @@ while True:
         x = x+xIncrement
 
     # Show final image
-    cv2.imshow("Filters App", cameraFeedImg)
+    cv2.imshow("Face Filter App", cameraFeedImg)
     cv2.waitKey(1)
